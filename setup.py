@@ -24,7 +24,7 @@ setup(
     packages=["corpse"],
     install_requires = [
         "cobra>=0.20.0",
-        "pandas>=1.1.4",
+        "pandas",
         "numpy>=1.19.4",
         "joblib>=0.17.0",
         "scipy>=1.5.4",
