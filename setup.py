@@ -23,7 +23,7 @@ setup(
     license='GPL3',
     packages=["corpse"],
     install_requires = [
-        "cobra>=0.20.0",
+        "cobra",
         "pandas",
         "numpy",
         "joblib",
