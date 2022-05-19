@@ -26,8 +26,8 @@ setup(
         "cobra>=0.20.0",
         "pandas",
         "numpy",
-        "joblib>=0.17.0",
-        "scipy>=1.5.4",
+        "joblib",
+        "scipy",
         "troppo",
         "cobamp"
         ]
